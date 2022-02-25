@@ -13,6 +13,6 @@ Book your free discussion session with me at [Calendly](https://calendly.com/rod
 - 🐶 [Dog Dad](Taz) 
 - 👨‍💻 Frontend Engineer
 - 🇹🇼 🇺🇸
-- https://www.roderickhsiao.me/
+- [Website](https://www.roderickhsiao.me/)
 
 [Taz]: https://www.instagram.com/taztazthebulldog/
